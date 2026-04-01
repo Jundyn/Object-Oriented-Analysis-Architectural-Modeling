@@ -1,8 +1,7 @@
-```markdown
+```
 # Library Management System - Object-Oriented Analysis
 
-A simplified **Library Management System** designed using **Object-Oriented Analysis (OOA)** and architectural planning. The system models real-world entities like books and members, manages borrowing transactions, and supports administrative functions.  
-
+A simplified **Library Management System** designed using **Object-Oriented Analysis (OOA)** and architectural planning. The system models real-world entities like books and members, manages borrowing transactions, and supports administrative functions. 
 ---
 
 ## **1. Requirement Analysis**
